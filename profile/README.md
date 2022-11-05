@@ -1,4 +1,4 @@
-![Photo Contains "You've stumbled across / Reponse"](https://user-images.githubusercontent.com/52077360/151661124-6c6ed0b8-1f3d-439e-aaf6-89416feacc06.png)
+!["aent"](https://cdn.discordapp.com/attachments/902968664133890079/977607972513542164/unknown.png)
 
 <!--
 We inspired from https://github.com/hackclub!
